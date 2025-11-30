@@ -1,6 +1,6 @@
 public class AboutMe {
     public static void main(String[] args) {
-        String name = "Kaushal";
+        String name = "puneeth";
         int age = 19;
         String language = "Java";
         System.out.println("Name: " + name);
@@ -8,3 +8,4 @@ public class AboutMe {
         System.out.println("Favorite Language: " + language);
     }
 }
+
